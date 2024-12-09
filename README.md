@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Karthika K Srinivasan!
 
-- 🌟 I’m an Information Technology student and passionate about my career in **Tech**. I love exploring the latest tech trends, working on projects, and sharing my journey in the tech world. 
+- 🌟 I’m an Information Technology student and passionate about my career in **Advanced Technology**. I love exploring the latest tech trends, working on projects, and sharing my journey in the tech world. 
 - 🔭 I'm currently pursuing my Bachelor's Degree in Sri Ramakrishna Engineering College
 - 👀 I’m interested in **Software Development** and **Data Analytics**
 - 🌱 I’m currently learning Java
