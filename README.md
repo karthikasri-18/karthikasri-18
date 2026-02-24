@@ -2,7 +2,7 @@
 
 - 🌟 I’m an Information Technology student and passionate about my career in **Advanced Technology**. I love exploring the latest tech trends, working on projects, and sharing my journey in the tech world. 
 - 🔭 I'm currently pursuing my Bachelor's Degree in Sri Ramakrishna Engineering College
-- 👀 I’m interested in **Software Development** and **Data Analytics**
+- 👀 I’m interested in **Software Development**
 - 🌱 I’m currently learning Java
 - 📫 Connect with me: <br>
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/karthika-kalambur-srinivasan/)
